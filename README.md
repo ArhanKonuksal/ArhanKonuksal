@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArhanKonuksal
-- 👀 I’m interested in Full-Stack
+- 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Mongo-DB
 - 💞️ I’m looking to collaborate on web-development companies
 - 📫 You can reach me from here or from my mail address arhankonuksal@gamil.com
