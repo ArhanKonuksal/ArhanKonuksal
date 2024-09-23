@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArhanKonuksal
+- 👋 Hi, I’m Arhan Konuksal
 - 👀 I’m interested in Front-End
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on web-development companies
