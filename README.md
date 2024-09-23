@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArhanKonuksal
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning Mongo-DB
+- 👀 I’m interested in Front-End
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on web-development companies
 - 📫 You can reach me from here or from my mail address arhankonuksal@gmail.com
 
