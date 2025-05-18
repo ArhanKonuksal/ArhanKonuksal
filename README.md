@@ -1,5 +1,5 @@
 # 💫 About Me:
-## Hi, I'm Arhan<br><br>🧠​ Computer science and Artificial Intelligence student at Karel de Grote-Hogeschool<br /><br>​🌌​ I create web apps to stay consistent<br /><br>🪻 Download my projects and useful resources<br /><br>🌱 I’m currently learning Python<br />
+## Hi, I'm Arhan<br><br>🧠​ Computer Science and Artificial Intelligence student at Karel de Grote-Hogeschool<br /><br>​🌌​ I create web apps to stay consistent<br /><br>🪻 Download my projects and useful resources<br /><br>🌱 I’m currently learning Python<br />
 
 
 ## 🌐 Socials:
